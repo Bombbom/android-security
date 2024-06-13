@@ -43,26 +43,26 @@
     - [ ] MASVS 
     - [ ] MASTG
   - [x] Malware behavior patterns
-    - [ ] Inital access
-    - [ ] Privilege escalation
-    - [ ] Persistence
-    - [ ] Impact
-    - [ ] Collection
-    - [ ] Defence evasion
+    - [x] Inital access
+    - [x] Privilege escalation
+    - [x] Persistence
+    - [x] Impact
+    - [x] Collection
+    - [x] Defence evasion
     - [ ] (See more) Mitre attack Mobile
   - [x] The analysis workflow
     - [x] Environment Setup
-    - [ ] Sample acquisition
-    - [ ] Reviewing the app manifest
+    - [x] Sample acquisition
+    - [x] Reviewing the app manifest
     - [x] Decompilation, Disassembly and Code Review
-    - [ ] Static analysis (--> automation)
-    - [ ] Dynamic Analysis and Behavior
-    - [ ] Runtime Instrumentation
-    - [ ] Vulnerability Identification
+    - [x] Static analysis (--> automation)
+    - [x] Dynamic Analysis and Behavior
+    - [x] Runtime Instrumentation
+    - [x] Vulnerability Identification
     - [x] Debugging
     - [x] Reporting and Remediation
   - [x] Demo
-    - [ ] Mobsf
+    - [x] Mobsf
       - [x] static analysis
       - [ ] dynamic analysis
     - [x] jadx, jadx-gui
