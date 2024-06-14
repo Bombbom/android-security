@@ -393,6 +393,47 @@ implemented in the sample.
 
 
 
+
+### Automation Static analysis 
+
+
+- Generating Hashes
+- Unzipping
+- APK Extracted
+- Getting Hardcoded Certificates/Keystores
+- Getting AndroidManifest.xml from APK
+- Converting AXML to XML
+- Parsing AndroidManifest.xml
+- Parsing APK with `androguard`
+- Starting analysis on AndroidManifest.xml
+- Extracting Manifest Data
+- Fetching Details from Play Store: `com.geniemd.geniemd.harvard`
+- Manifest Analysis Started
+  - Checking for Malware Permissions
+  - Fetching icon path
+  - Library Binary Analysis Started
+  - Reading Code Signing Certificate
+  - Getting Signature Versions
+- Running `APKiD 2.1.5`
+- Trackers Database is outdated!
+- Updating Trackers Database....
+- Detecting Trackers
+- APK -> JAVA
+  - Decompiling to Java with jadx
+  - DEX -> SMALI
+  - Converting classes.dex to Smali Code
+- Code Analysis Started on - java_source
+- Android API Analysis Started
+- Android Permission Mapping Started
+- Android Permission Mapping Completed
+- Finished Code Analysis, Email and URL Extraction
+- Extracting Data from APK
+- Extracting Data from Source Code
+- Detecting Firebase URL(s)
+- Performing Malware Check on extracted Domains
+- Maltrail Database is outdated!
+
+
 -----
 
 ### 6. Dynamic Analysis and Behavioral analysis
